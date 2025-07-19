@@ -236,7 +236,10 @@ p {
       font-weight: bold;
 }
 
-
+ul {
+  margin-left: 20px;
+  margin-top: 0.5rem;
+}
 
 a {
       color: var(--jisang-blue);
